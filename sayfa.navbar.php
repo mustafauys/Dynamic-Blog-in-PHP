@@ -106,7 +106,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    
 <a style="color:black" href="https://github.com/UysalMustafaa" target="_blank"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;
-<a style="color:black" href="https://www.linkedin.com/in/mustafa-uysal-a7270517b/" target="_blank"><i class="fab fa-linkedin"></i></a>&nbsp;&nbsp;&nbsp;
+<a style="color:black" href="https://www.linkedin.com/in/uysalmustafaa/" target="_blank"><i class="fab fa-linkedin"></i></a>&nbsp;&nbsp;&nbsp;
 <a style="color:black" href="https://twitter.com/Mustafaauysall1" target="_blank"><i class="fab fa-twitter"></i></a>
 
   </div>

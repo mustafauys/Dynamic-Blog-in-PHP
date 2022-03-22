@@ -4,7 +4,7 @@
 ############### Veritabanı Bağlantı Ayarları
 $SunucuAdi    = "localhost";
 $KullaniciAdi = "root";
-$Parola       = "root";
+$Parola       = "4505096asd";
 $VeritabaniAdi= "blog_2019";
 
 // Veritabanı bağlantısının oluşturulması
