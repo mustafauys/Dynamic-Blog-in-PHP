@@ -1,3 +1,5 @@
+## The work done in this repo is out of date, the packages need to be updated and edited again.
+
 # Dynamic Blog in PHP
 
 This application made with PHP includes features such as user usage, admin panel, dynamic, adding category, adding authors.
